@@ -1,17 +1,17 @@
 ## Hi there 👋 Holaa, soy Lucía
 
-🎓 Freelance - Docente de Computación, Robótica y Programación  
+🎓 Freelance - Desarrolladora en formación, docente de robótica y programación  
 📍 Argentina, Mar del Plata
 
 ---
 
 ## 🧑‍🏫 Sobre mí
-Soy desarrolladora de software, profesora y trabajo enseñando:
-- Computación básica
-- Scratch
-- Robótica educativa
-- HTML y fundamentos de programación
-- Programación Orientada a Objetos
+Soy desarrolladora con experiencia trabajando en proyectos colaborativos,
+incluyendo repositorios privados. Tengo formación y práctica en programación,
+control de versiones y desarrollo de soluciones educativas.
+
+Me interesa el desarrollo web, la lógica de programación y la creación de
+proyectos claros, mantenibles y bien documentados.
 
 Me interesa el aprendizaje mediante proyectos, el pensamiento lógico
 y el uso de la tecnología como herramienta educativa.
@@ -38,9 +38,15 @@ y el uso de la tecnología como herramienta educativa.
 
 ---
 
-## 📚 Proyectos
-🔒 Algunos proyectos se encuentran en repositorios privados.  
-📂 En mis repositorios públicos comparto ejemplos, prácticas y material educativo.
+## 📂 Proyectos
+🔓 Repositorios públicos:
+- Proyectos de práctica
+- Ejercicios de desarrollo web
+- Material técnico y educativo
+
+🔒 Repositorios privados:
+- Proyectos colaborativos y educativos
+- Trabajo bajo acuerdos de confidencialidad
 
 ---
 
